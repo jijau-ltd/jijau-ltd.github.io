@@ -116,3 +116,28 @@ body {
     line-height: 1.3;
   }
 }
+
+.site-logo {
+  max-width: 200px;
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (min-width: 992px) {
+  .position-relative .intro-image {
+    position: relative;
+    max-width: 100%;
+    height: auto;
+    top: auto;
+    left: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .position-relative .intro-image {
+    position: relative;
+    max-width: 100%;
+    height: auto;
+  }
+}

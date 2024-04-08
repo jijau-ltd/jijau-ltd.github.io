@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Technical Excellence",
+    "description": "Mastering the craft with cutting-edge technology and best practices, we ensure your software is built to the highest standards.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Symmathetic Evolution",
+    "description": "Fostering <a href=\"https://medium.com/@jessitron/symmathecist-n-c728957ce71f\">symmathesy</a>, we nurture software development as a continual learning journey, ensuring systems evolve with clarity and adaptability.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Delivery Focus",
+    "description": "Committed to your timelines, we prioritise efficient processes and clear communication, ensuring timely delivery of quality software solutions.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
