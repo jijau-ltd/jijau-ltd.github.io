@@ -34,7 +34,6 @@ defaults:
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
-  sourcemap: never
 
 plugins:
   - jekyll-environment-variables
